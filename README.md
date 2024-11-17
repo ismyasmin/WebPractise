@@ -1,1 +1,1 @@
-# WebPractise. Practising my git and creating websitesls
+# WebPractise. Practising my git and creating websites
